@@ -1,7 +1,7 @@
-<h2 align="center">🎵 Alger Music Player</h2>
+<h2 align="center">🎵Music Player</h2>
 <div align="center">
 <div align="center">
-  <a href="https://github.com/algerkong/AlgerMusicPlayer/stargazers">
+  <a href="">
     <img src="https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=for-the-badge&logo=github&label=Stars&logoColor=white&color=22c55e" alt="GitHub stars">
   </a>
   <a href="https://github.com/algerkong/AlgerMusicPlayer/releases">
