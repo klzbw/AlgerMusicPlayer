@@ -265,29 +265,6 @@
                   style="width: 160px"
                 />
               </div>
-              <!-- 网易云 QQ 音乐 酷我 酷狗 会员购买链接 -->
-              <div class="p-2 bg-light-100 dark:bg-dark-100 rounded-lg mt-2">
-                <div>大家还是需要支持正版，本软件只做开源探讨</div>
-                <div class="mt-2">各大音乐会员购买链接</div>
-                <div class="flex gap-5 flex-wrap">
-                  <a
-                    class="text-green-400 hover:text-green-500"
-                    href="https://music.163.com/store/vip"
-                    target="_blank"
-                    >网易云音乐会员</a
-                  >
-                  <a
-                    class="text-green-400 hover:text-green-500"
-                    href="https://y.qq.com/portal/vipportal/"
-                    target="_blank"
-                    >QQ音乐会员</a
-                  >
-                  <a
-                    class="text-green-400 hover:text-green-500"
-                    href="https://vip.kugou.com/"
-                    target="_blank"
-                    >酷狗音乐会员</a
-                  >
                 </div>
               </div>
             </div>
